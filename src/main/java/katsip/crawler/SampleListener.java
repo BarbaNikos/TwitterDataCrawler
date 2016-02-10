@@ -1,3 +1,5 @@
+package katsip.crawler;
+
 import twitter4j.*;
 
 /**

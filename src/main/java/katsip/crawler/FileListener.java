@@ -1,7 +1,8 @@
+package katsip.crawler;
+
 import twitter4j.*;
 
 import java.io.IOException;
-import java.util.Date;
 
 /**
  * Created by nick on 12/6/15.

@@ -1,6 +1,6 @@
+package katsip.crawler;
+
 import twitter4j.*;
-import twitter4j.auth.OAuthAuthorization;
-import twitter4j.conf.ConfigurationBuilder;
 import java.io.IOException;
 
 /**
